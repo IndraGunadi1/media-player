@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/media-player/static/css/main.d13af4f5.chunk.css",
-    "main.js": "/media-player/static/js/main.c3f711b6.chunk.js",
-    "main.js.map": "/media-player/static/js/main.c3f711b6.chunk.js.map",
-    "runtime-main.js": "/media-player/static/js/runtime-main.a4700963.js",
-    "runtime-main.js.map": "/media-player/static/js/runtime-main.a4700963.js.map",
-    "static/js/2.8f075d4d.chunk.js": "/media-player/static/js/2.8f075d4d.chunk.js",
-    "static/js/2.8f075d4d.chunk.js.map": "/media-player/static/js/2.8f075d4d.chunk.js.map",
-    "index.html": "/media-player/index.html",
-    "precache-manifest.e05cbc710805242e3a5b4d51c3f6ac91.js": "/media-player/precache-manifest.e05cbc710805242e3a5b4d51c3f6ac91.js",
-    "service-worker.js": "/media-player/service-worker.js",
-    "static/css/main.d13af4f5.chunk.css.map": "/media-player/static/css/main.d13af4f5.chunk.css.map",
-    "static/js/2.8f075d4d.chunk.js.LICENSE.txt": "/media-player/static/js/2.8f075d4d.chunk.js.LICENSE.txt"
+    "main.css": "/media-player-master/static/css/main.d13af4f5.chunk.css",
+    "main.js": "/media-player-master/static/js/main.c6534eca.chunk.js",
+    "main.js.map": "/media-player-master/static/js/main.c6534eca.chunk.js.map",
+    "runtime-main.js": "/media-player-master/static/js/runtime-main.335ef93c.js",
+    "runtime-main.js.map": "/media-player-master/static/js/runtime-main.335ef93c.js.map",
+    "static/js/2.3b989a8b.chunk.js": "/media-player-master/static/js/2.3b989a8b.chunk.js",
+    "static/js/2.3b989a8b.chunk.js.map": "/media-player-master/static/js/2.3b989a8b.chunk.js.map",
+    "index.html": "/media-player-master/index.html",
+    "precache-manifest.634f75566042ec7a3d89740f8b747818.js": "/media-player-master/precache-manifest.634f75566042ec7a3d89740f8b747818.js",
+    "service-worker.js": "/media-player-master/service-worker.js",
+    "static/css/main.d13af4f5.chunk.css.map": "/media-player-master/static/css/main.d13af4f5.chunk.css.map",
+    "static/js/2.3b989a8b.chunk.js.LICENSE.txt": "/media-player-master/static/js/2.3b989a8b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4700963.js",
-    "static/js/2.8f075d4d.chunk.js",
+    "static/js/runtime-main.335ef93c.js",
+    "static/js/2.3b989a8b.chunk.js",
     "static/css/main.d13af4f5.chunk.css",
-    "static/js/main.c3f711b6.chunk.js"
+    "static/js/main.c6534eca.chunk.js"
   ]
 }
